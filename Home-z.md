@@ -6,6 +6,5 @@ navigation:
   link: "/about-us"
 - link_text: Home
   link: "/"
-published: false
 
 ---
