@@ -8,5 +8,5 @@ fields:
   hidden: false
   default: default
 pages:
-- _posts/Post 1.md
+- _posts/2019-05-14-Post 1.md
 - yellow.md
