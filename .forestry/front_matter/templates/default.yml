@@ -8,4 +8,5 @@ fields:
   hidden: false
   default: default
 pages:
+- _posts/Post 1.md
 - yellow.md
